@@ -133,55 +133,6 @@
       </div>
     </section><!-- End Counts Section -->
 
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-lg-4 d-flex align-items-stretch">
-            <div class="content">
-              <h3>Why this is Important?</h3>
-              <p>
-                 Enrolling on prestigious universities usually owned a large-scale area comprising numbers of buildings that are categorized in terms of departments and its use. Caraga State University is nestled in a 232-hectare area, 32 hectares of which is allocated for academic buildings & support facilities including a Gymnasium, while the remaining 200 hectare of land is for production, research and extension projects of the University. Freshmen are not that familiar about buildings, room numbers and landmarks inside the campus.
-
-              </p>
-              <div class="text-center">
-                <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-boxes d-flex flex-column justify-content-center">
-              <div class="row">
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
-                    <h4>Easy to Use</h4>
-                    <p>We provide a friendly website for you</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
-                    <h4>Quality Content</h4>
-                    <p>Good content written by the team</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
-                    <h4>Free access</h4>
-                    <p>Free to open website anytime and anywhere</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Why Us Section -->
-
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->

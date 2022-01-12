@@ -83,20 +83,7 @@ include 'config.php';
         <p>Thank you for using our page. We hope we give you a good service and use it without error. If you have any concerns or suggestion about our page we are happy to hear it. Please message us using what provided below. </p>
       </div>
     </div><!-- End Breadcrumbs -->
-
-                <div class="social">
-                  <a href="https://mobile.twitter.com/Lyn63196969"><i class="bi bi-twitter"></i></a>
-                  <a href="https://www.facebook.com/ambivert.alien"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/lovely.agst/"><i class="bi bi-instagram"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section
+  </main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
   <footer id="footer">
