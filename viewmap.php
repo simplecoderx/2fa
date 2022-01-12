@@ -11,6 +11,10 @@ if(!isset($_SERVER['HTTP_REFERER'])){
   header('location: viewmap.php');
   exit;
 }
+
+if (!isset($_SESSION["user_id"])) {
+  header("Location: index.php");
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +54,6 @@ if(!isset($_SERVER['HTTP_REFERER'])){
   ======================================================== -->
 </head>
 <body>
-    <div>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
