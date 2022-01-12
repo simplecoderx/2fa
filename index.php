@@ -43,12 +43,6 @@
   ======================================================== -->
 </head>
 <body>
-$(document).ready(function() {
-    function disableBack() { window.history.forward() }
-    window.onload = disableBack();
-    window.onpageshow = function(evt) { if (evt.persisted) disableBack() }
-});</script>
-
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
