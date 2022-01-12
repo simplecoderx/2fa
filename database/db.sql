@@ -42,7 +42,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `token`, `status`,`code`, `date_time`) VALUES
-(2, 'Trial User', 'trialluser@gmail.com', 'bedebb62a1716ada5fa7203f46c02723', '0cb5e63a18e45aadc68a9e894d88618d', 1, 123456, (CURRENT_TIMESTAMP));
+(2, 'trialluser@gmail.com', 'bedebb62a1716ada5fa7203f46c02723', '0cb5e63a18e45aadc68a9e894d88618d', 1, 123456, (CURRENT_TIMESTAMP));
 
 --
 -- Indexes for dumped tables
